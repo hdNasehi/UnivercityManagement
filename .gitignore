@@ -1,0 +1,40 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+
+# Visual Studio Code settings
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# EF Core Migrations (optional, usually keep them)
+# Migrations/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.swp
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Publish output
+publish/
